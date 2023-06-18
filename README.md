@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SQL Database, C# , Unity**
 
-- 📫 How to reach me **berkemnohutcu@gmail.com**
+- 📫 How to reach me **berkemnohutcu@gmail.com** , linkedin.com/in/berkemnohutcu
 
 
 <p align="left">
